@@ -1,0 +1,153 @@
+<div style="background-color: #824E28; padding: 10px; color: white; font-weight: 600; font-size: 15px;">Old Kent Road</div>
+<a href="https://goo.gl/maps/vW9hEAYZNJgSHLG66">The George</a>
+<a href="/monopoly/mobile?locations=Pubs!dev.pubs!2&lat=51.51742248092708&lng=-0.07444739341735841&z=16">The Hoop and Grapes</a>
+<a href="https://goo.gl/maps/ff2CW8tQEL4a7e1L7">Take the 42 bus north on Tower Bridge Road.</a>
+
+
+<div style="background-color: white; padding: 10px; color: black; font-weight: 600; font-size: 15px;">Fenchurch Street Station</div>
+<a href="https://goo.gl/maps/45pcCy9RSNitb6V2A">The Hoop and Grapes</a>
+<a href="/monopoly/mobile?locations=Pubs!dev.pubs!35&lat=51.5226564024897&lng=-0.0708746910095215&z=15">The White Hart</a>
+<a href="https://goo.gl/maps/aSuvhy2cPa3Af1p46">Just a short walk up Whitechapel High Street.</a>
+
+
+<div style="background-color: #824E28; padding: 10px; color: white; font-weight: 600; font-size: 15px;">Whitechapel Road</div>
+<a href="https://goo.gl/maps/goiR2D5prUsWvKpZA">The White Hart</a>
+<a href="/monopoly/mobile?locations=Pubs!dev.pubs!47&lat=51.51935189190837&lng=-0.08347570896148682&z=17">The Railway Tavern</a>
+<a href="https://goo.gl/maps/DdozQMTSbYLfyQgZ6">About 15 minutes walk to Liverpool Street Station.</a>
+
+
+<div style="background-color: white; padding: 10px; color: black; font-weight: 600; font-size: 15px;">Liverpool Street Station</div>
+<a href="https://goo.gl/maps/eccZqnNcvodcekit7">The Railway Tavern</a>
+<a href="/monopoly/mobile?locations=Pubs!dev.pubs!6&lat=51.53395668382256&lng=-0.10653197765350343&z=17">The Angel</a>
+<a href="https://goo.gl/maps/G19MixRbFjruo25i7">Northern Line via Moorgate to Angel.</a>
+
+
+<div style="background-color: #ACCDE7; padding: 10px; color: black; font-weight: 600; font-size: 15px;">The Angel, Islington</div>
+<a href="https://goo.gl/maps/k8gunCPPTnrKZM6U8">The Angel</a>
+<a href="/monopoly/mobile?locations=Pubs!dev.pubs!7&lat=51.535498324016345&lng=-0.10910153388977051&z=16">The Castle</a>
+<a href="https://goo.gl/maps/qeeQgEKZmhioSoLM6">A just a few steps around the corner on Pentonville Road.</a>
+
+
+<div style="background-color: #ACCDE7; padding: 10px; color: black; font-weight: 600; font-size: 15px;">Pentonville Road</div>
+<a href="https://goo.gl/maps/MTyGH4zz1PApymgs9">The Castle</a>
+<a href="/monopoly/mobile?locations=Pubs!dev.pubs!8&lat=51.53055287772362&lng=-0.1262837648391724&z=17">O'Neills Kings Cross</a>
+<a href="https://goo.gl/maps/qeDUWtoWVVVymJTq7">A short bus ride 30 / 73 / 205 from Penton Street Chapel Market (Stop PN).</a>
+
+
+<div style="background-color: white; padding: 10px; color: black; font-weight: 600; font-size: 15px;">King's Cross Station</div>
+<a href="https://goo.gl/maps/sAQu2k3HQE7jdg7q6">O'Neills</a>
+<a href="/monopoly/mobile?locations=Pubs!dev.pubs!9&lat=51.52918127215161&lng=-0.128915011882782&z=18">The Rocket</a>
+<a href="https://goo.gl/maps/PNsQfhpH1QJwMEVB7">Just a few steps across Euston Road.</a>
+
+
+<div style="background-color: #ACCDE7; padding: 10px; color: black; font-weight: 600; font-size: 15px;">Euston Road</div>
+<a href="https://goo.gl/maps/tE4oEX8B7hMYsyMc9">The Rocket</a>
+<a href="/monopoly/mobile?locations=Pubs!dev.pubs!10&lat=51.52431858080433&lng=-0.1635450124740601&z=17">Victoria & Albert</a>
+<a href="https://goo.gl/maps/tRdPGp3j9FetG1bW9">Take the 18 Bus from Euston Bus Station (Stop F) to Marylebone Station.</a>
+
+
+<div style="background-color: white; padding: 10px; color: black; font-weight: 600; font-size: 15px;">Marylebone Station</div>
+<a href="https://goo.gl/maps/qtyZnQPFjceWTyLu7">Victoria & Albert</a>
+<a href="/monopoly/mobile?locations=Pubs!dev.pubs!46&lat=51.51718880968854&lng=-0.14135777950286868&z=17">The Argyl</a>
+<a href="https://goo.gl/maps/UYAq2UucXefGSu6F6">Take the Bakerloo line to Oxford Circus.</a>
+
+
+<div style="background-color: #2EA044; padding: 10px; color: black; font-weight: 600; font-size: 15px;">Oxford Street</div>
+<a href="https://goo.gl/maps/Wqa2iaoHVoFbw53C9">The Argyll</a>
+<a href="/monopoly/mobile?locations=Pubs!dev.pubs!53&lat=51.516153965507584&lng=-0.1393944025039673&z=17">O'Neills</a>
+<a href="https://goo.gl/maps/S5HYiXbP4qBJq4bT7">Two minutes walk down Argyll Street.</a>
+
+
+<div style="background-color: #e8922f; padding: 10px; color: black; font-weight: 600; font-size: 15px;">Marlborough Street</div>
+<a href="https://goo.gl/maps/KX7cNMgdjdGLD4sG9">O'Neill's Carnaby Street</a>
+<a href="/monopoly/mobile?locations=Pubs!dev.pubs!52&lat=51.515586460329516&lng=-0.1403063535690308&z=17">The Clachan</a>
+<a href="https://goo.gl/maps/juXoLHzHf3WyLJ7J8">One minute walk down Little Marlborough Street.</a>
+
+
+<div style="background-color: #2EA044; padding: 10px; color: black; font-weight: 600; font-size: 15px;">Regent Street</div>
+<a href="https://goo.gl/maps/Hf4hoj7LGzDvDCVU9">The Clachan</a>
+<a href="/monopoly/mobile?locations=Pubs!dev.pubs!30&lat=51.5125017791149&lng=-0.13760268688201907&z=17">Leicester Arms</a>
+<a href="https://goo.gl/maps/SHuPKhzXeQDhwiFeA">A few minutes walk towards Picadilly Circus.</a>
+
+
+<div style="background-color: #e8922f; padding: 10px; color: black; font-weight: 600; font-size: 15px;">Vine Street</div>
+<a href="https://goo.gl/maps/J6CVmtGzrnhZ75K46">Leicester Arms</a>
+<a href="/monopoly/mobile?locations=Pubs!dev.pubs!54&lat=51.510558723334285&lng=-0.1412826776504517&z=17">The King's Head</a>
+<a href="https://goo.gl/maps/N3b73mQGrYT6Kqkn8">5 minutes walk accross Regent Street.</a>
+
+
+<div style="background-color: #2EA044; padding: 10px; color: black; font-weight: 600; font-size: 15px;">Bond Street</div>
+<a href="https://goo.gl/maps/u41faB2nMVmaYM5i6">The King's Head</a>
+<a href="/monopoly/mobile?locations=Pubs!dev.pubs!15&lat=51.50836183536835&lng=-0.14635741710662845&z=17">Ye Grapes</a>
+<a href="https://goo.gl/maps/mi1awiYabqTdM4tD6">A few minutes walk through Mayfair.</a>
+
+
+<div style="background-color: #595E9B; padding: 10px; color: white; font-weight: 600; font-size: 15px;">Mayfair</div>
+<a href="https://goo.gl/maps/kANAibbVCDKaEXpR6">Ye Grapes</a>
+<a href="/monopoly/mobile?locations=Pubs!dev.pubs!51&lat=51.505971180389686&lng=-0.1488679647445679&z=17">Rose & Crown</a>
+<a href="https://goo.gl/maps/Bi4gSvAA4qNkE6aQ8">Walk towards Hyde Park Corner.</a>
+
+
+<div style="background-color: #595E9B; padding: 10px; color: white; font-weight: 600; font-size: 15px;">Park Lane</div>
+<a href="https://goo.gl/maps/Rg65qaCthHEJ79B66">Rose & Crown</a>
+<a href="/monopoly/mobile?locations=Pubs!dev.pubs!16&lat=51.50860222948671&lng=-0.14325678348541263&z=17">Henry's Cafe Bar</a>
+<a href="https://goo.gl/maps/Rb6JFy8syWhQJs4T6">6 minutes walk up Picadilly.</a>
+
+
+<div style="background-color: #E0E13E; padding: 10px; color: black; font-weight: 600; font-size: 15px;">Picadilly</div>
+<a href="https://goo.gl/maps/RttTiJzpcBZ9WEMg6">Henry's Cafe Bar</a>
+<a href="/monopoly/mobile?locations=Pubs!dev.pubs!17&lat=51.50767403407928&lng=-0.1378494501113892&z=17">The Red Lion</a>
+<a href="https://goo.gl/maps/gc9QQd3yCAp6VWC67">Walk up Picadilly towards St James' Street</a>
+
+
+<div style="background-color: #C9357A; padding: 10px; color: black; font-weight: 600; font-size: 15px;">Pall Mall</div>
+<a href="https://goo.gl/maps/SLFNaRtjdxd7boK98">The Red Lion</a>
+<a href="/monopoly/mobile?locations=Pubs!dev.pubs!21&lat=51.50834848010235&lng=-0.1275497674942017&z=17">The Lord Moon of The Mall</a>
+<a href="https://goo.gl/maps/PPyUHk2YxMioeXj37">Walk towards Trafalgar Square.</a>
+
+
+<div style="background-color: #C9357A; padding: 10px; color: black; font-weight: 600; font-size: 15px;">Whitehall</div>
+<a href="https://goo.gl/maps/scKoRy8oSN7xJnf98">The Lord Moon of The Mall</a>
+<a href="/monopoly/mobile?locations=Pubs!dev.pubs!22&lat=51.5087157484906&lng=-0.1252645254135132&z=17">Sherlock Holmes</a>
+<a href="https://goo.gl/maps/9L7TUDW7NMVnxnac7">Walk via Trafalgar Square.</a>
+
+
+<div style="background-color: #C9357A; padding: 10px; color: black; font-weight: 600; font-size: 15px;">Northumberland Avenue</div>
+<a href="https://goo.gl/maps/LVonx7t7kgWMSS2B9">Sherlock Holmes</a>
+<a href="/mobile?locations=Pubs!dev.pubs!55&lat=51.515873552068&lng=-0.10734736919403078&z=17">Ye Olde Cheshire Cheese</a>
+<a href="https://goo.gl/maps/PwTxducN7tBhLQDW9">Take the a bus east towards St. Pauls.</a>
+
+
+<div style="background-color: #D73332; padding: 10px; color: black; font-weight: 600; font-size: 15px;">Fleet Street</div>
+<a href="https://goo.gl/maps/4Kfe9WZ4zX72ZCWx5">Ye Olde Cheshire Cheese</a>
+<a href="/monopoly/mobile?locations=Pubs!dev.pubs!24&lat=51.51281559822001&lng=-0.11957824230194093&z=17">The Wellington</a>
+<a href="https://goo.gl/maps/vWjCyyyWdwzgJTfY9">Walk or bus back towards Trafalgar Square.</a>
+
+
+<div style="background-color: #D73332; padding: 10px; color: black; font-weight: 600; font-size: 15px;">The Strand</div>
+<a href="https://goo.gl/maps/G4UJn2pyGZJTDMwDA">The Wellington</a>
+<a href="/monopoly/mobile?locations=Pubs!dev.pubs!25&lat=51.51450484264583&lng=-0.12124121189117432&z=17">Marquess Of Anglesey</a>
+<a href="https://goo.gl/maps/Vk1UnYnKnH9iQJx57">Walk North on Wellington Street.</a>
+
+
+<div style="background-color: #e8922f; padding: 10px; color: black; font-weight: 600; font-size: 15px;">Bow Street</div>
+<a href="https://goo.gl/maps/Jig6yGjT3XenmMYM6">Marquess Of Anglesey</a>
+<a href="/monopoly/mobile?locations=Pubs!dev.pubs!43&lat=51.51119974058721&lng=-0.12684166431427005&z=17">The Chandos</a>
+<a href="https://goo.gl/maps/TVF2AKcYGSkH3Bmc8">7 minutes walk towards Trafalgar Square.</a>
+
+
+<div style="background-color: #D73332; padding: 10px; color: black; font-weight: 600; font-size: 15px;">Trafalgar Square</div>
+<a href="https://goo.gl/maps/b29GPPebwwUwNkVN6">The Chandos</a>
+<a href="/monopoly/mobile?locations=Pubs!dev.pubs!28&lat=51.5112130950174&lng=-0.13181984424591067&z=17">Tom Cribb</a>
+<a href="https://goo.gl/maps/1Mob4sNR4gHdS1pE8">Walk past National Portrait Gallery.</a>
+
+
+<div style="background-color: #E0E13E; padding: 10px; color: black; font-weight: 600; font-size: 15px;">Coventry Street</div>
+<a href="https://goo.gl/maps/fW4mTr72S6ZDq81AA">Tom Cribb</a>
+<a href="/monopoly/mobile?locations=Pubs!dev.pubs!27&lat=51.51169385189717&lng=-0.12925565242767337&z=17">The Moon Under Water</a>
+<a href="https://goo.gl/maps/e7GCofZsgcXhFjuc6">Walk towards Leicester Square.</a>
+
+
+<div style="background-color: #E0E13E; padding: 10px; color: black; font-weight: 600; font-size: 15px;">Leicester Square</div>
+<a href="https://goo.gl/maps/KJQ4eoQYvjbiaQzXA">The Moon Under Water</a>
+
